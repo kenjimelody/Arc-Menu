@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="scrim">#42000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="path_primary">#E62F17</color>
+    <color name="path_orange">#FF9500</color>
+    <color name="path_blue">#1774E6</color>
+    <color name="path_black">#403B36</color>
+    <color name="path_green">#5FB336</color>
+    <color name="path_purple">#49098A</color>
+
+</resources>
